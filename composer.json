@@ -1,0 +1,13 @@
+{
+    "name": "roronoazoro/banco-sangre",
+    "description": "Banco de Sangre",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    }
+}
